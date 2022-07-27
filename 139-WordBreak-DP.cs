@@ -1,3 +1,6 @@
+/*
+Time: O(n^3) due to two loops + 1 substring operation.
+*/
 public class Solution {
     public bool WordBreak(string s, IList<string> wordDict) {
         HashSet<string> hs = new HashSet<string>(wordDict);
