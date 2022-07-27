@@ -18,7 +18,7 @@ Solution - Recursive
 public class Solution 
 {
     public void Flatten(TreeNode root)
-    {
+    { 
         FlattenTree(root);
     }
     
