@@ -15,33 +15,33 @@ Solution - Recursive
  *     }
  * }
  */
-public class Solution 
+public class Solution
 {
     public void Flatten(TreeNode root)
-    { 
+    {
         FlattenTree(root);
     }
-    
+
     private TreeNode FlattenTree(TreeNode root)
     {
-        if(root == null)
+        if (root == null)
             return null;
-        
-        if (root.left == null && root.right == null) 
+
+        if (root.left == null && root.right == null)
         {
             return root;
         }
-        
+
         var left = FlattenTree(root.left);
         var right = FlattenTree(root.right);
-        
-        if(left != null)
+
+        if (left != null)
         {
             left.right = root.right;
             root.right = root.left;
             root.left = null;
         }
-        return right == null? left:right;
+        return right == null ? left : right;
     }
-        
+
 }
