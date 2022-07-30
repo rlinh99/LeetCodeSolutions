@@ -1,4 +1,4 @@
-public class Solution
+public class Solution33
 {
     public int Search(int[] nums, int target)
     {

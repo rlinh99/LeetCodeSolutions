@@ -1,3 +1,9 @@
+/*
+Remove Duplicates from Sorted Array
+Linearly shift later element to previous position
+
+Easy
+*/
 public class Solution
 {
     public int RemoveDuplicates(int[] nums)

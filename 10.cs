@@ -1,14 +1,17 @@
 /*
-hard
-super important
+RegularExpressionMatching
+UsingDP
+
+Hard
 */
-public class Solution
+public class Solution10DP
 {
     public bool IsMatch(string s, string p)
     {
         if (string.IsNullOrEmpty(p))
             return string.IsNullOrEmpty(s);
         var dp = new bool[s.Length + 1, p.Length + 1];
+        
         //initialize dp matrix
         dp[0, 0] = true;
         // handle the cases when s = 0;

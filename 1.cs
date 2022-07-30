@@ -1,4 +1,10 @@
-public class Solution
+/*
+Two Sum
+Using dictionary to achieve O(n) complexity.
+
+Easy
+*/
+public class Solution1
 {
     public int[] TwoSum(int[] nums, int target)
     {
