@@ -1,3 +1,9 @@
+/*
+Search in Rotated Sorted Array
+Binary Search with Offset
+
+Medium
+*/
 public class Solution33
 {
     public int Search(int[] nums, int target)
