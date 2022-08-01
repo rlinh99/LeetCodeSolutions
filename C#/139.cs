@@ -1,7 +1,12 @@
 /*
+Word Break
+DP and BFS
+
+Medium
+
 Time: O(n^3) due to two loops + 1 substring operation.
 */
-public class SolutionDP
+public class Solution139DP
 {
     public bool WordBreak(string s, IList<string> wordDict)
     {
@@ -22,7 +27,7 @@ public class SolutionDP
     }
 }
 
-public class SolutionDFS
+public class Solution139DFS
 {
     public bool WordBreak(string s, IList<string> wordDict)
     {
