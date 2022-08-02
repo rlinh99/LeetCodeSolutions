@@ -1,3 +1,10 @@
+/*
+Sum of Subarray Mins
+Monotonic Stack - find decreasing element
+Find Boundaries
+
+Medium
+*/
 public class Solution
 {
     public int SumSubarrayMins(int[] arr)

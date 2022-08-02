@@ -1,3 +1,11 @@
+/*
+Lowest Common Ancestor of a Binary Tree
+
+Medium
+*/
+/*
+Explanation
+/*
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
@@ -7,7 +15,7 @@
  *     public TreeNode(int x) { val = x; }
  * }
  */
-public class Solution
+public class Solution236
 {
     public TreeNode LowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q)
     {

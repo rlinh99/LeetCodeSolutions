@@ -1,3 +1,9 @@
+/*
+Remove Duplicate Letters
+dict to record last appreance of the letter
+
+Medium
+*/
 public class Solution
 {
     public string RemoveDuplicateLetters(string s)
@@ -13,9 +19,7 @@ public class Solution
         {
             while (stk.Count > 0 && stk.Peek() > s[i]
                  && dict[stk.Peek()] > i && !visited.Contains(s[i]))
-            {
                 visited.Remove(stk.Pop());
-            }
 
             if (!visited.Contains(s[i]))
             {

@@ -1,4 +1,9 @@
-public class Solution
+/*
+Valid Anagram
+
+Easy
+*/
+public class Solution242
 {
     public bool IsAnagram(string s, string t)
     {

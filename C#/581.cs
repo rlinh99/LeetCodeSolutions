@@ -1,5 +1,9 @@
 /*
+Shortest Unsorted Continuous Subarray
 nlogn - sort
+First, sort the array, then find the mismatching part
+
+Medium
 */
 public class Solution
 {

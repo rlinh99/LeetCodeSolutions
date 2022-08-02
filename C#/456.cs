@@ -1,3 +1,9 @@
+/*
+132 Pattern
+iterate from backward
+
+Medium
+*/
 public class Solution
 {
     public bool Find132pattern(int[] nums)
