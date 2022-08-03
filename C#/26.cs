@@ -4,7 +4,7 @@ Linearly shift later element to previous position
 
 Easy
 */
-public class Solution
+public class Solution26
 {
     public int RemoveDuplicates(int[] nums)
     {

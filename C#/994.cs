@@ -1,3 +1,10 @@
+/*
+Rotting Orange
+BFS and count the number of fresh oranges
+
+Medium
+*/
+
 public class RottingOrangeSolution
 {
     public int OrangesRotting(int[][] grid)
