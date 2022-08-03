@@ -1,8 +1,8 @@
 /*
-Two Sum
-Using dictionary to achieve O(n) complexity.
+    Two Sum
+    Using dictionary to achieve O(n) complexity.
 
-Easy
+    Easy
 */
 public class Solution1
 {

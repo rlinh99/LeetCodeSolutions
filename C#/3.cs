@@ -1,8 +1,8 @@
 /*
-Longest Substring Without Repeating Character.
-Use Dictionary/HashMap to record last appreance of a char.
+    Longest Substring Without Repeating Character.
+    Use Dictionary/HashMap to record last appreance of a char.
 
-Medium
+    Medium
 */
 
 public class Solution3

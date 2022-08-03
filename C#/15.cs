@@ -1,7 +1,8 @@
 /*
-3Sum
-Sort + Two Pointers
-Medium
+    3Sum
+    Sort + Two Pointers
+
+    Medium
 */
 public class Solution
 {
