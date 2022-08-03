@@ -1,8 +1,10 @@
 /*
-Word Ladder
-Classic BFS Solution
+    127. Word Ladder
+    
+    Explanation:
+    Classic BFS Solution, not even hard.
 
-Hard
+    Hard
 */
 
 

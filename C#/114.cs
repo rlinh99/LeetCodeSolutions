@@ -1,6 +1,10 @@
 /*
-Flatten Binary Tree to LinkedList.
-Solution - Recursive
+    114. Flatten Binary Tree to LinkedList.
+
+    Explanation:
+    Solution - Recursivly flatten left to right.
+
+    Medium
 */
 
 /**
@@ -29,9 +33,7 @@ public class Solution
             return null;
 
         if (root.left == null && root.right == null)
-        {
             return root;
-        }
 
         var left = FlattenTree(root.left);
         var right = FlattenTree(root.right);

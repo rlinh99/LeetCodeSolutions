@@ -1,8 +1,9 @@
 /*
-Rotting Orange
-BFS and count the number of fresh oranges
+    LC994
+    Rotting Orange
+    BFS and count the number of fresh oranges
 
-Medium
+    Medium
 */
 
 public class RottingOrangeSolution

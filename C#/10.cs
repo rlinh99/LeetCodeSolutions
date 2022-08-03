@@ -1,6 +1,8 @@
 /*
-    RegularExpressionMatching
-    UsingDP
+    10. RegularExpressionMatching
+    
+    Explanation:
+    2d DP.
 
     Hard
 */

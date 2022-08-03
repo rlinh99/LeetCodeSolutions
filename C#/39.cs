@@ -1,8 +1,10 @@
 /*
-Combination Sum
-Classic Backtracking.
+    39. Combination Sum
 
-Medium
+    Explanation:
+    Classic Backtracking.
+
+    Medium
 */
 
 public class Solution39
@@ -21,8 +23,10 @@ public class Solution39
             res.Add(new List<int>(aRes));
             return;
         }
+
         if (target < 0)
             return;
+            
         for (int i = pos; i < candidates.Length; i++)
         {
             aRes.Add(candidates[i]);

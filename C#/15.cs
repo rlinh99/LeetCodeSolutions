@@ -1,10 +1,12 @@
 /*
-    3Sum
-    Sort + Two Pointers
+    15. 3Sum
+
+    Explanation:
+    Sort + Two Pointers. One Iteration + Two Sum
 
     Medium
 */
-public class Solution
+public class Solution15
 {
     public IList<IList<int>> ThreeSum(int[] nums)
     {

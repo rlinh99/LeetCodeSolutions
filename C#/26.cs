@@ -1,8 +1,10 @@
 /*
-Remove Duplicates from Sorted Array
-Linearly shift later element to previous position
+    26. Remove Duplicates from Sorted Array
+    
+    Explanation:
+    Linearly shift later element to previous position
 
-Easy
+    Easy
 */
 public class Solution26
 {

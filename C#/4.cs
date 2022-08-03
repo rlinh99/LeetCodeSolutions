@@ -1,8 +1,10 @@
 /*
-Medium of two sorted array. 
-Binary Search for two arrays, divide two array elements as a whole.
+    4. Medium of two sorted array. 
 
-Hard
+    Explanation:
+    Binary Search for two arrays, divide two array elements as a whole.
+
+    Hard
 */
 public class Solution
 {

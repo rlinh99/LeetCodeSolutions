@@ -1,5 +1,7 @@
 /*
-    Longest Substring Without Repeating Character.
+    3. Longest Substring Without Repeating Character.
+
+    Explanation:
     Use Dictionary/HashMap to record last appreance of a char.
 
     Medium

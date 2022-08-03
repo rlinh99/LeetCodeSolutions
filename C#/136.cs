@@ -1,6 +1,8 @@
 /*
-    Single Number
-    Simple hashmap manipulation
+    136. Single Number
+
+    Explanation:
+    Simple hashmap manipulation, get value = 1's key
 
     Easy
 */

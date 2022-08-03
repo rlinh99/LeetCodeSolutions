@@ -1,8 +1,10 @@
 /*
-Search in Rotated Sorted Array
-Binary Search with Offset
+    33. Search in Rotated Sorted Array
 
-Medium
+    Explanation:
+    Binary Search with Offset
+
+    Medium
 */
 public class Solution33
 {

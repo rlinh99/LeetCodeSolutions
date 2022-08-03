@@ -1,11 +1,12 @@
 /*
 Find Pivot Index
+Explanation:
 Simple PreSum
 
 Easy
 */
 
-public class Solution
+public class Solution724
 {
     public int PivotIndex(int[] nums)
     {

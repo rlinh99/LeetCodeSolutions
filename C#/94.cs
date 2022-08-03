@@ -1,7 +1,10 @@
 /*
-Binary Tree Inorder Traversal
+    Binary Tree Inorder Traversal
 
-Easy
+    Explanation:
+    Left->Root->Right
+
+    Easy
 */
 
 /**

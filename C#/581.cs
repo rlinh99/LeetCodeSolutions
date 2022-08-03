@@ -1,11 +1,12 @@
 /*
-Shortest Unsorted Continuous Subarray
-nlogn - sort
-First, sort the array, then find the mismatching part
+    Shortest Unsorted Continuous Subarray
+    Explanation:
+    nlogn - sort
+    First, sort the array, then find the mismatching part
 
-Medium
+    Medium
 */
-public class Solution
+public class Solution581
 {
     public int FindUnsortedSubarray(int[] nums)
     {
