@@ -1,9 +1,9 @@
 /*
-Find Pivot Index
-Explanation:
-Simple PreSum
+    724. Find Pivot Index
+    Explanation:
+    Simple PreSum
 
-Easy
+    Easy
 */
 
 public class Solution724

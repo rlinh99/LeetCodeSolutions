@@ -1,8 +1,10 @@
 /*
-Word Break
-DP and BFS
+    Word Break
 
-Medium
+    Explanation:
+    DP and BFS, should be easy to read.
+
+    Medium
 
 Time: O(n^3) due to two loops + 1 substring operation.
 */
